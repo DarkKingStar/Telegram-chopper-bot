@@ -1,5 +1,5 @@
 function hello (){
     console.log("Hi");
-    console.log("Hii Sounak");
+    console.log("Hii Kutu");
 }
 
