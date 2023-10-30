@@ -1,1 +1,5 @@
-console.log("Hi");
+function hello (){
+    console.log("Hi");
+    console.log("Hii Kutu");
+}
+
